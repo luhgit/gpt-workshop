@@ -1,3 +1,8 @@
 openai
-langchain
+langchain==0.0.179
 jupyterlab
+tiktoken
+pandas
+docarray
+chromadb
+wikipedia
