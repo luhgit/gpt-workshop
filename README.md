@@ -5,3 +5,4 @@
   - `pip install -r requirements.txt`
 - Change directory to repository.
 - Run jupyter noteboook/lab: `jupyter lab`
+- You can now run the notebooks in the `notebooks` folder.
